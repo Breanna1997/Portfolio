@@ -195,9 +195,11 @@ a {
 }
 .section > h1 {
   font-size: 2em;
+  margin-bottom: 10px;
 }
 .section > p {
   font-size: 16px;
+  padding: 10px 10px 10px 10px;
 }
 #about-section {
  /* border-style: solid;
